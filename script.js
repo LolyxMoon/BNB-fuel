@@ -1,19 +1,19 @@
 /*****************
  * CONFIG
  *****************/
-const CONTRACT_ADDRESS = "0xdFb2678455d96f59ebCa62f9f9532f587EC9cB2a";
+const CONTRACT_ADDRESS = "0x0000000000";
 const LINKS = {
   DEXSCREENER: "https://dexscreener.com/",
   DEXTOOLS: "https://www.dextools.io",
-  TELEGRAM: "https://t.me/BiFuel",
-  TWITTER: "https://x.com/bifuelbnb",
+  TELEGRAM: "https://t.me/",
+  TWITTER: "https://x.com/bifuel_bnb",
 };
 
 const TOKENOMICS = {
   supply: "1,000,000,000",
-  reflect: "2%",
-  burn: "2%",
-  marketing: "1%"
+  reflect: "20%",
+  burn: "20%",
+  marketing: "0%"
 };
 
 
