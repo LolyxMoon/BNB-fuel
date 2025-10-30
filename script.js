@@ -1,7 +1,7 @@
 /*****************
  * CONFIG
  *****************/
-const CONTRACT_ADDRESS = "0x0000000000";
+const CONTRACT_ADDRESS = "0x4444bec1f84b416046601c69d6268d004c5bad3f";
 const LINKS = {
   DEXSCREENER: "https://dexscreener.com/",
   DEXTOOLS: "https://www.dextools.io",
